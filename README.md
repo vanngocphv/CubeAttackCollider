@@ -30,4 +30,5 @@ Project is created with:
 - Retry (I don't implement this, maybe in future if I have time)
 
 ## Demo
+- This Gif has been captured by LICEcap, not my shader if you confuse
 ![Demo](./FileGif/Demo_1.gif)
