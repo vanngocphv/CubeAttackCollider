@@ -5,7 +5,7 @@ Date Created: 22/06/2023 - 09:30 (AM GMT +7) <br />
 Date Finished: 22/06/2023 - 14:10 (PM GMT +7)  <br />
 
 ## Index contents
-* [General info](#general-info)
+* [General info](#general-info)x
 * [Technologies](#technologies)
 * [Feature](#feature)
 * [Demo](#demo)
